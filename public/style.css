@@ -1,0 +1,82 @@
+.main{
+    border: 4px solid black;
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    background-color:black;
+    background-image: url(image/bg\ image.jpg);
+    background-repeat:no-repeat ;
+    background-size:870px 550px ;
+}
+.heading{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+    color: white;
+    text-align: center;
+}
+.result{
+    width: 100%;
+    background-color: rgb(151, 147, 147);
+    color: white;
+    margin-top: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+
+
+}
+.clearBtn{
+    width: 100%;
+    margin-top: 5px;
+    background-color: rgb(151, 147, 147);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+
+}
+.Btn{
+    background-color: rgb(151, 147, 147);
+    width: 67px;
+    margin: 1px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+
+}
+.halfBtn{
+    background-color:rgb(151, 147, 147) ;
+    width: 93px;
+    margin-top: 5px;
+   
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+
+}
+.fullBtn{
+    width: 100%;
+    margin-top: 5px;
+    background-color: rgb(151, 147, 147);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+    margin-bottom: 5px;
+
+}
+.fullBtn:hover {
+    background-color: rgb(66, 64, 64);
+    color:white ;
+  }
+  .halfBtn:hover{
+    background-color: rgb(66, 64, 64);
+    color:white ;
+  }
+  .Btn:hover{
+    background-color: rgb(66, 64, 64);
+    color:white ;
+  }
+  .clearBtn:hover{
+    background-color: rgb(66, 64, 64);
+    color:white ;
+  }
